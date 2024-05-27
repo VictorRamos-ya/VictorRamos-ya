@@ -33,7 +33,7 @@
 
 <div align="center" >
    
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/VictorRamos-ya?chart=3dbar&gap=0.6&scale=2&light=1&flatten=1&animation=wave&animation_duration=3&animation_delay=0.03&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=19_3&format=svg&weeks=40&theme=red&widget_size=medium) 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/VictorRamos-ya?chart=3dbar&gap=0.6&scale=2&flatten=1&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=red&widget_size=small&dark=true) 
 
 </div>
 <br>
